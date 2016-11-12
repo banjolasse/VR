@@ -1,0 +1,25 @@
+Combineable items:
+	Hilt
+	
+
+Weapons / Tools:
+	Shuriken
+	Knife
+	Dart
+	Hammer
+	Bottle (empty?)
+
+Consumables:
+	Carrot
+	Pie
+	Egg
+	Rotten tomato
+	Donut
+	Pineapple
+
+Rare items, for comedial purpose.
+
+Animals:
+	Angry cat
+	Fire
+	
