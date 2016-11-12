@@ -511,14 +511,14 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 0
     Build: 0
-    Collab: 1
+    Collab: 0
     ErrorHub: 0
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 1
+    UNet: 0
     Unity_Ads: 0
-  cloudProjectId: 7bb5a5c3-f8b8-4ac0-a293-3f911e83466c
-  projectName: VR_gameJam
-  organizationId: dan-sonne
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
